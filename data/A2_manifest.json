@@ -1,0 +1,47 @@
+{
+  "audience": "student-a2",
+  "files": [
+    {
+      "bytes": 647403,
+      "path": "Group018_dirty_data.csv",
+      "sha256": "16be3c86e5fd4c94870b110030d659377bd44fbf8d9c7ce11416fd71333600ab"
+    },
+    {
+      "bytes": 690211,
+      "path": "Group018_missing_data.csv",
+      "sha256": "c808007804721a37d79918e61f51156a010e14b4dd0963fe763845eed45d469c"
+    },
+    {
+      "bytes": 675635,
+      "path": "Group018_outlier_data.csv",
+      "sha256": "f216fab8318c911da7c40258cbd7249cd515bf0777ddf20c29c4e34342ac3b64"
+    },
+    {
+      "bytes": 1611,
+      "path": "README.md",
+      "sha256": "2ffdf9877eda08970d6f77636a2b07792ca559f721b67c70d976d5b66c49f3a6"
+    },
+    {
+      "bytes": 211,
+      "path": "input_manifest.csv",
+      "sha256": "bd8d2c562373949f0a316ffa350e2fca7769e6bac038bd59a112404acc8f32f2"
+    },
+    {
+      "bytes": 265,
+      "path": "resource_contract.json",
+      "sha256": "bc2d93b2adbc873cc6184033b8d5991583f13ece4779ddd00501dbef0620ac2d"
+    },
+    {
+      "bytes": 90486,
+      "path": "resources/nltk_data/sentiment/vader_lexicon.zip",
+      "sha256": "8adba4294eef3964d820bf655e37e61bdc3a341994356af59b74fb3b4a36ce5c"
+    },
+    {
+      "bytes": 125,
+      "path": "warehouses.csv",
+      "sha256": "efe7679b9ba8f169357ce84e40352f0a41a4370ef0b0a2809a8d1d80efb19eab"
+    }
+  ],
+  "group_alias": "Group018",
+  "manifest_schema_version": "1.1-public"
+}
